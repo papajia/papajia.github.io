@@ -70,5 +70,5 @@ avatar: https://avatars2.githubusercontent.com/u/7992933?v=3&s=466
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo:
-    github: git@github.com:papajia/papajia.github.io.git, master
+  repo: git@github.com:papajia/papajia.github.io.git
+  branch: master
